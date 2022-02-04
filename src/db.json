@@ -1,0 +1,29 @@
+{
+    "cakesDetails": [
+        {
+            "id": 1,
+            "flavour": "Vanilla cake",
+            "Quantity": "1kg",
+            "price": 40
+        },
+        {
+            "id": 2,
+            "flavour": "Pineapple cake",
+            "Quantity": "1kg",
+            "price": 40
+        },
+        {
+            "id": 3,
+            "flavour": "Chocolate cake",
+            "Quantity": "1kg",
+            "price": 50
+        },
+        {
+            "id": 4,
+            "flavour": "Coffee cake",
+            "Quantity": "1kg",
+            "price": 30
+        }
+
+    ]
+}
